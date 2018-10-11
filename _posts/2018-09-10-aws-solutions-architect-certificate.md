@@ -6,7 +6,7 @@ author: 怡安
 ---
 
 一開始只是想了解一下雲端服務提供什麼內容，目前最主流的雲端服務包括 Amazon Web Service（AWS)、Microsoft Azure 和 Google Cloud Platform（GCP），其中 AWS 的實用性和服務完整性目前領先 Azure 和 GCP 如下圖所示，因此我選擇學習 AWS。
-![Image of MQ](/assets/img/MQ_AWS.jpg)
+![Image of MQ](assets/img/MQ_AWS.jpg)
 
 ## 準備
 從0開始到考試準備約1個月。
